@@ -1,3 +1,7 @@
+# 访问地址：
+
+https://cyhero.github.io/zh-space-normalizer/
+
 # zh-space-normalizer
 
 面向中文 AI 写作场景的文本规范化工具，用于清理 AI 生成文本、报告、论文、小红书文案、公众号文案中常见的中英数字混排空格问题，以及没有实际内容、纯粹为了排版好看的多余空行。
